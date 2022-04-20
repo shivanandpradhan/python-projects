@@ -1,0 +1,23 @@
+[
+    {
+        "Name": "shivanand",
+        "Age": 12,
+        "Roll": 1,
+        "Gender": "M",
+        "Fees": 400
+    },
+    {
+        "Name": "Ragini",
+        "Age": 12,
+        "Roll": 2,
+        "Gender": "F",
+        "Fees": 400
+    },
+    {
+        "Name": "Manik",
+        "Age": 12,
+        "Roll": 3,
+        "Gender": "M",
+        "Fees": 400
+    }
+]

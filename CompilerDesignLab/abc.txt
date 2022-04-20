@@ -1,0 +1,7 @@
+# write a text
+int main()
+{
+    #writing a text
+    //abc comment
+    /* dafa
+}
